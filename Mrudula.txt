@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this is IIIT Nuzvid
+=======
+this is Sri.
+i added this at 5:53
+i added this at 7:24
+i added this at 7:32
+>>>>>>> 975a970cb3c28591b92a05ef629615736dbc15c2

@@ -1,3 +1,7 @@
 this is first project
+<<<<<<< HEAD
 hello this Srilakshmi
 hello hi
+=======
+ok will rock
+>>>>>>> 975a970cb3c28591b92a05ef629615736dbc15c2
